@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "connection": "^1.5.0",
+    "nobel": "^0.3.0",
+    "noble": "^1.9.1",
+    "sass": "^1.83.1",
+    "xpc": "^0.0.0-empty",
+    "xpx": "^0.0.5"
+  },
+  "name": "sphero-hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
